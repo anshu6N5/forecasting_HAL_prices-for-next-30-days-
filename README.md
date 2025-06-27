@@ -25,7 +25,7 @@ This project forecasts the **next 30 days of HAL (Hindustan Aeronautics Limited)
  
   - ## 📉 Sample Output Plot
 
-![Forecast Plot](forecast_plot.png)  
+![Forecast Plot]Rplot11.jpeg 
 *Red Line = Predicted Price | Grey Ribbon = 95% Confidence Interval*
 
 ## 📋 Key Insights
